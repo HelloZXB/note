@@ -5,7 +5,6 @@ const pluginsConf = require('./config/pluginsConf')
 const blogConf = require('./config/blogConf')
 
 module.exports = {
-  // "base": "/notes/",
   "title": "dawnIceZhu's Notes",
   "description": "dawnIceZhu's Notes&Blog",
   "dest": "public",
