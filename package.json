@@ -1,5 +1,5 @@
 {
-  "name": "dawnIceZhu's Notes",
+  "name": "dawnIceZhuNotes",
   "version": "1.0.0",
   "author": "reco_luan",
   "scripts": {
@@ -10,5 +10,8 @@
     "vuepress": "1.7.1",
     "vuepress-theme-reco": "1.6.1"
   },
-  "description": "dawnIceZhu's Notes&Blog"
+  "description": "dawnIceZhu's Notes&Blog",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
