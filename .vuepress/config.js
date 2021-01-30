@@ -25,7 +25,14 @@ module.exports = {
     "authorAvatar": "/avatar.png", // 头像
     "record": "鲁ICP备20017435号", // ICP 备案文案
     "recordLink": 'http://www.beian.gov.cn/', // ICP 备案指向链接
-    "startYear": "2021" // 项目开始时间
+    "startYear": "2021", // 项目开始时间
+    "vssueConfig": {
+      platform: 'github',
+      owner: 'HelloZXB',
+      repo: 'note',
+      clientId: 'be80fbd3a5c32a78eb99',
+      clientSecret: '6acfc1cc709e476fd116229c2c092f42eb8a38a9',
+    }
   },
   "markdown": {
     "lineNumbers": true
