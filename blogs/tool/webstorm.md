@@ -1,10 +1,20 @@
 ---
 title: WebStorm
-date: 2017-09-21
+date: 2021-01-31
 tags:
  - webstorm
 categories: 
  - TOOL
 ---
 
-webstorm
+:::tip
+The smartest JavaScript IDE [官方文档](https://www.jetbrains.com/webstorm/)
+:::
+
+<!-- more -->
+
+## webstorm取消自动保存
+
+![image-20210131115807187](/img/image-20210131115807187.png)
+
+![image-20210131115832854](/img/image-20210131115832854.png)
