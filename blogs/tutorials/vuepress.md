@@ -5,7 +5,15 @@ tags:
  - vuepress
 categories: 
  - TUTORIALS
+sticky:
+ - type: 1
 ---
+
+::: tip
+快速搭建VuePress, 一切以 [官方文档](https://vuepress.vuejs.org/zh/) 为准
+:::
+
+<!-- more -->
 
 ## [Vue Press](https://www.vuepress.cn/) 使用教程
 
@@ -231,13 +239,11 @@ cd -
   },
 ```
 
-```md
 ::: danger
 windows系统下, 使用这个命令可能会导致这样一个错误 " 'bash' 不是内部或外部命令，也不是可运行的程序 "
 解决方案:
 .vuepress 中打开 Git Bash 输入 ./deploy.sh
 :::
-```
 
 3. 验证 gh-pages
 
@@ -1378,13 +1384,11 @@ module.exports = {
 
 当写大量笔记, 博客是需要, 支持第一次生成导航栏, 精准排序
 
-```
 ::: danger
 如果要设置自动生成侧边栏, 那么需要:
 sidebar: true 和 const navConf = require('./config/navConf')删除掉
 改为 const nav = require('./nav.js') 和 nav: nav
 :::
-```
 
 安装
 
@@ -1404,21 +1408,17 @@ module.exports = {
 }
 ```
 
-```md
 ::: danger
 写完 nav: true, 必须执行一下文件, 便于生成 nav.js
 :::
-```
 
 ### [algolia 搜索](https://docsearch.algolia.com/)
 
-```
 ::: danger
 vuepress 自带的搜索
 申请 algolia, 等待邮件即可, 也有可能收到一封拒绝信, 则自行构建
 algolia 的缺陷: 手动, 记录上限, 单页内容过多会导致失败
 :::
-```
 
 
 

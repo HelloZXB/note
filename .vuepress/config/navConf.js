@@ -5,19 +5,19 @@ module.exports = [
     "icon": "reco-home"
   },
   {
-    "text": "TimeLine",
-    "link": "/timeline/",
-    "icon": "reco-date"
-  },
-  {
     "text": "Docs",
     "icon": "reco-message",
     "items": [
       {
-        "text": "vuepress-reco",
+        "text": "Lead",
         "link": "/docs/theme-reco/"
       }
     ]
+  },
+  {
+    "text": "TimeLine",
+    "link": "/timeline/",
+    "icon": "reco-date"
   },
   {
     "text": "Contact",
@@ -25,7 +25,7 @@ module.exports = [
     "items": [
       {
         "text": "GitHub",
-        "link": "https://github.com/recoluan",
+        "link": "https://github.com/HelloZXB",
         "icon": "reco-github"
       }
     ]

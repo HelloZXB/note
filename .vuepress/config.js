@@ -12,7 +12,7 @@ module.exports = {
   "theme": "reco",
   "plugins": pluginsConf,
   "themeConfig": {
-    "sidebar": 'auto', // 自动配置侧边栏
+    sidebar: "auto", // 自动配置侧边栏
     "nav": navConf,
     "type": "blog",
     "blogConfig": blogConf,
