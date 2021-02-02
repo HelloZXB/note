@@ -1,6 +1,6 @@
 ---
 title: Vue Press使用教程
-date: 2020-01-30
+date: 2021-01-30
 tags:
  - vuepress
 categories: 
@@ -82,7 +82,7 @@ features:
 --- 
 ```
 
-#### 设置导航栏LOGO
+#### 设置导航栏logo
 
 在 docs 文件夹下新建 `` .vuepress/config.js``
 
