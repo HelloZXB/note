@@ -1415,6 +1415,10 @@ module.exports = {
 ### [algolia 搜索](https://docsearch.algolia.com/)
 
 ::: danger
+搭建失败
+:::
+
+::: danger
 vuepress 自带的搜索
 申请 algolia, 等待邮件即可, 也有可能收到一封拒绝信, 则自行构建
 algolia 的缺陷: 手动, 记录上限, 单页内容过多会导致失败
