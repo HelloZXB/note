@@ -8,7 +8,7 @@ categories:
 ---
 
 :::tip
-The smartest JavaScript IDE [OfficialSite](https://www.jetbrains.com/webstorm/)
+The smartest JavaScript IDE [Official website](https://www.jetbrains.com/webstorm/)
 :::
 
 <!-- more -->
