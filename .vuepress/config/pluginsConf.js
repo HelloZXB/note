@@ -7,6 +7,7 @@ module.exports = {
   '@vuepress-reco/vuepress-plugin-pagation': { // 添加分页
     perPage: 10
   },
+  '@vuepress-reco/vuepress-plugin-loading-page': 'auto',
   '@vuepress/pwa': {
     serviceWorker: true,
     updatePopup: {
