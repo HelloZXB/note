@@ -7,7 +7,7 @@ module.exports = {
   '@vuepress-reco/vuepress-plugin-pagation': { // 添加分页
     perPage: 10
   },
-  '@vuepress-reco/vuepress-plugin-loading-page': 'auto',
+  '@vuepress-reco/vuepress-plugin-loading-page': 'auto', // 载入页面
   '@vuepress/pwa': {
     serviceWorker: true,
     updatePopup: {
@@ -18,7 +18,6 @@ module.exports = {
   '@vuepress/google-analytics': {
     'ga': 'UA-188413535-4' // 跟踪ID
   },
-  "vuepress-plugin-cat": "auto", // 开启板娘
   "ribbon": {
     size: 90, // width of the ribbon, default: 90
     opacity: 0.8, // opacity of the ribbon, default: 0.3

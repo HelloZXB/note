@@ -21,7 +21,6 @@
     "@vuepress-reco/vuepress-plugin-loading-page": "^1.6.0",
     "@vuepress-reco/vuepress-plugin-pagation": "^1.6.0",
     "moment": "^2.29.1",
-    "vuepress-plugin-cat": "^1.0.3",
     "vuepress-plugin-cursor-effects": "^1.0.0",
     "vuepress-plugin-dynamic-title": "^1.0.0"
   }
