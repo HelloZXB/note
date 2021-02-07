@@ -4,6 +4,9 @@ module.exports = {
   '@vuepress/last-updated': {
     transformer: (timestamp) => moment(timestamp).format("YYYY年MM月DD日HH时MM分SS秒")
   },
+  '@vuepress-reco/vuepress-plugin-pagation': { // 添加分页
+    perPage: 10
+  },
   '@vuepress/pwa': {
     serviceWorker: true,
     updatePopup: {
@@ -16,9 +19,9 @@ module.exports = {
   },
   "vuepress-plugin-cat": "auto", // 开启板娘
   "ribbon": {
-    size: 90,     // width of the ribbon, default: 90
+    size: 90, // width of the ribbon, default: 90
     opacity: 0.8, // opacity of the ribbon, default: 0.3
-    zIndex: -1    // z-index property of the background, default: -1
+    zIndex: -1 // z-index property of the background, default: -1
   },
   "cursor-effects": "auto", // 添加光标动画
   "dynamic-title": { // 添加动态标题
@@ -67,7 +70,9 @@ module.exports = {
     // 悬浮窗模式，吸边
     shrinkMode: 'float',
     // 悬浮窗位置
-    floatStyle: {bottom: '10px', 'z-index': '999999'},
+    floatStyle: {
+      bottom: '10px',
+      'z-index': '999999'
+    },
   }
 }
-
