@@ -37,31 +37,31 @@ module.exports = {
       {
         name: '你不是他星球上的玫瑰',
         artist: '温野',
-        url: 'https://webfs.yun.kugou.com/202101311018/90e6fb03d16c8f29931e4d8f7ac537c8/G161/M07/13/18/gZQEAFyaqO2AeAs1AChM6NXcvhQ808.mp3',
+        url: '/bgm/music/温野 - 你不是他星球上的玫瑰.mp3',
         cover: 'http://p1.music.126.net/JhWpssxu2alUKlNW-6cplA==/109951164646616239.jpg?param=640y300'
       },
       {
         name: 'Childhood\'s Memory',
         artist: '熱田公紀',
-        url: 'https://webfs.yun.kugou.com/202101302214/acbf1f8a66a19d1b0855d49f8846f32d/part/0/960983/G114/M04/1B/07/UpQEAFvodBCAGWMhAIFqK6IORFQ020.mp3',
+        url: '/bgm/music/Richard Clayderman - Childhood Memories.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20151225/20151225003211275414.jpg'
       },
       {
         name: 'Dream It Possible',
         artist: 'Delacey',
-        url: 'https://webfs.yun.kugou.com/202101302218/f4a0e599bcf03fe16114b8033b645521/G148/M02/13/0F/NIcBAFvJVaqAb5N6ADHXW3DSEx4595.mp3',
+        url: '/bgm/music/Delacey - Dream It Possible.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20161031/20161031151741660508.jpg'
       },
       {
         name: '花火が瞬く夜に',
         artist: '羽肿',
-        url: 'https://webfs.yun.kugou.com/202101302225/babbc16ad6cb6e9aa45c876139498b7e/G171/M03/05/15/6w0DAF2bUvGAKGFXAEIlDjm1260737.mp3',
+        url: '/bgm/music/羽肿 - 花火が瞬く夜に (烟花闪烁的夜晚).mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20170622/20170622214007481858.jpg'
       },
       {
         name: 'remember',
         artist: 'Uru',
-        url: 'https://webfs.yun.kugou.com/202101311027/35489a3cdc75e7f54c66d225b96f56b9/KGTX/CLTX001/ab319a6afbb8ae1d520e250ac6a41f45.mp3',
+        url: '/bgm/music/Uru - remember.mp3',
         cover: 'https://imgessl.kugou.com/stdmusic/20180929/20180929143315672838.jpg'
       }
     ],
