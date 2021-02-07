@@ -13,6 +13,7 @@ module.exports = {
   "plugins": pluginsConf,
   "themeConfig": {
     sidebar: "auto", // 自动配置侧边栏
+    codeTheme: 'tomorrow', // 设置代码主题
     "nav": navConf,
     "type": "blog",
     "blogConfig": blogConf,
