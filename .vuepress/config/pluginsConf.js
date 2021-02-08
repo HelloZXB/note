@@ -74,5 +74,29 @@ module.exports = {
       bottom: '10px',
       'z-index': '999999'
     },
+  },
+  '@vuepress-reco/vuepress-plugin-bulletin-popover': { // 公告插件
+    width: '300px', // 默认 260px
+    title: '消息提示',
+    body:
+      [
+        {
+          type: 'title',
+          content: '欢迎加入QQ交流群 🎉🎉🎉',
+          style: 'text-aligin: center; font-weight: 700; font-size: 19px; padding: 0 0 17px;'
+        },
+        {
+          type: 'image',
+          src: '/group.jpg',
+          style:  'width: 268px; height: 268px; object-fit: cover;'
+        }
+      ],
+    footer: [
+      {
+        type: 'button',
+        text: '打赏',
+        link: 'blogs/other/reward/'
+      }
+    ]
   }
 }
