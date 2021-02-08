@@ -25,7 +25,7 @@ module.exports = [
     "items": [
       {
         "text": "GitHub",
-        "link": "https://github.com/HelloZXB",
+        "link": "https://github.com/dawnIceZhu",
         "icon": "reco-github"
       }
     ]
