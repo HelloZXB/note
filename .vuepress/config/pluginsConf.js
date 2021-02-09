@@ -1,7 +1,7 @@
 const moment = require('moment'); // 导入moment依赖包
 
 module.exports = {
-  '@vuepress/last-updated': {
+  'last-updated': {
     transformer: (timestamp) => moment(timestamp).format("YYYY年MM月DD日HH时MM分SS秒")
   },
   '@vuepress-reco/vuepress-plugin-pagation': { // 添加分页
@@ -88,7 +88,7 @@ module.exports = {
         {
           type: 'image',
           src: '/group.jpg',
-          style:  'width: 268px; height: 268px; object-fit: cover;'
+          style: 'width: 268px; height: 268px; object-fit: cover;'
         }
       ],
     footer: [
