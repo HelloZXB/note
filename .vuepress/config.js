@@ -29,10 +29,10 @@ module.exports = {
     "startYear": "2021", // 项目开始时间
     "vssueConfig": {
       platform: 'github',
-      owner: 'HelloZXB',
+      owner: 'dawnIceZhu',
       repo: 'note',
       clientId: 'be80fbd3a5c32a78eb99',
-      clientSecret: '6acfc1cc709e476fd116229c2c092f42eb8a38a9',
+      clientSecret: 'f9b0fc5527b4fc60beb0e4fc7c641d7d6897facf',
     }
   },
   "markdown": {
