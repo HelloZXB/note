@@ -33,7 +33,7 @@ module.exports = {
   '@vuepress/google-analytics': { // 谷歌分析
     'ga': 'UA-188413535-4' // 跟踪ID
   },
-  'vuepress-plugin-code-copy': {
+  'vuepress-plugin-code-copy': { // 设置一键复制代码
     color: '#3eaf7c', // 设置颜色
     backgroundColor: '#3eaf7c', // 设置背景色
   }, // 一键复制代码插件
