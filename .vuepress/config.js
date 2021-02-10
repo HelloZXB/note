@@ -25,7 +25,7 @@ module.exports = {
     "author": "dawnIceZhu", // 全局作者姓名
     "authorAvatar": "/avatar.png", // 头像
     "record": "鲁ICP备20017435号", // ICP 备案文案
-    "recordLink": 'http://www.beian.gov.cn/', // ICP 备案指向链接
+    "recordLink": 'https://icp.chinaz.com/home/info?host=hellozxb.com', // ICP 备案指向链接
     "startYear": "2021", // 项目开始时间
     "vssueConfig": {
       platform: 'github',
