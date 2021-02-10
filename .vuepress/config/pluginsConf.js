@@ -23,6 +23,10 @@ module.exports = {
     }
   },
   '@vuepress-reco/vuepress-plugin-loading-page': 'auto', // 载入页面
+  'social-share': { // 分享插件
+    networks: ["qq", "weibo", "email"], // 分享类型
+    email: "Hello16369@163.com", // email
+  },
   '@vuepress/pwa': {
     serviceWorker: true,
     updatePopup: {
