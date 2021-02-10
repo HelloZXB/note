@@ -36,7 +36,8 @@ module.exports = {
   'vuepress-plugin-code-copy': { // 设置一键复制代码
     color: '#3eaf7c', // 设置颜色
     backgroundColor: '#3eaf7c', // 设置背景色
-  }, // 一键复制代码插件
+  },
+  'reading-progress': true, // 设置阅读进度条
   "ribbon": {
     size: 90, // width of the ribbon, default: 90
     opacity: 0.8, // opacity of the ribbon, default: 0.3

@@ -24,6 +24,7 @@
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-cursor-effects": "^1.0.0",
     "vuepress-plugin-dynamic-title": "^1.0.0",
-    "vuepress-plugin-meting": "^0.2.1"
+    "vuepress-plugin-meting": "^0.2.1",
+    "vuepress-plugin-reading-progress": "^1.0.10"
   }
 }
