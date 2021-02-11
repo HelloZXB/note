@@ -15,9 +15,8 @@ module.exports = [
   }], // 添加SEO
   ['meta', { // 设置关键字
     name: 'keywords',
-    content: '朱晓冰, 朱晓冰的博客, 朱晓冰的笔记, 博客, 笔记, 前端博客, WEB前端开发, 前端技术分享, html, css, javascript, node, vue, react, 前端面试题, 前端常见bug, 开发工具, 文档, Vue Press'
+    content: '朱晓冰, 朱晓冰的笔记, 文档, Vue Press'
   }],
-  ['link', {rel: 'manifest', href: '../manifest.json'}],
   ['meta', {name: 'theme-color', content: '#3eaf7c'}],
   ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
   ['meta', {name: 'apple-mobile-web-app-status-bar-style', content: 'black'}],

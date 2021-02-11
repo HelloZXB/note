@@ -49,9 +49,9 @@ module.exports = {
   },
   "cursor-effects": "auto", // 添加光标动画
   "dynamic-title": { // 添加动态标题
-    showIcon: "/public/favicon.ico",
+    showIcon: "/favicon.ico",
     showText: "Hey, that's good again!",
-    hideIcon: "/public/failure.ico",
+    hideIcon: "/favicon.ico",
     hideText: "Oh, it broke down!",
     recoverTime: 2000
   }
